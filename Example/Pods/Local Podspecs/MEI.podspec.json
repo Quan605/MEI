@@ -1,0 +1,22 @@
+{
+  "name": "MEI",
+  "version": "0.1.0",
+  "summary": "A short description of MEI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/thomas.quan605@gmail.com/MEI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thomas.quan605@gmail.com": "quanhj@backustech.com"
+  },
+  "source": {
+    "git": "https://github.com/thomas.quan605@gmail.com/MEI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MEI/Classes/**/*"
+}

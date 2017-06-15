@@ -1,0 +1,6 @@
+framework module Pods_MEI_Example {
+  umbrella header "Pods-MEI_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MEI {
+  umbrella header "MEI-umbrella.h"
+
+  export *
+  module * { export * }
+}
